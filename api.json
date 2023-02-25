@@ -373,6 +373,7 @@
     {
       "name": "Bea Crossbody",
       "price": 275,
+      "discount": 5,
       "sex": "women",
       "type": "bags",
       "color": "Brass/Red",
@@ -382,6 +383,7 @@
     {
       "name": "Bethany Belt Bag",
       "price": 195,
+      "discount": 25,
       "sex": "women",
       "type": "bags",
       "color": "Brass/Black",
@@ -392,6 +394,7 @@
     {
       "name": "League Belt Bag In Signature Jacquard",
       "price": 350,
+      "discount": 5,
       "sex": "women",
       "type": "bags",
       "color": "Charcoal/Black",
@@ -402,6 +405,7 @@
     {
       "name": "Riya Backpack 21",
       "price": 395,
+      "discount": 5,
       "sex": "women",
       "type": "bags",
       "color": "Brass/Hay",
@@ -412,6 +416,7 @@
     {
       "name": "Charter Backpack In Signature Denim",
       "price": 495,
+      "discount": 10,
       "sex": "women",
       "type": "bags",
       "color": "Black Denim",
@@ -422,6 +427,7 @@
     {
       "name": "Moto Jacket",
       "price": 1250,
+      "discount": 10,
       "sex": "women",
       "type": "jacket",
       "color": "Black",
@@ -432,6 +438,7 @@
     {
       "name": "Disney X Coach Souvenir Jacket",
       "price": 795,
+      "discount": 5,
       "sex": "women",
       "type": "jacket",
       "color": "Pink/Multi",
@@ -442,6 +449,7 @@
     {
       "name": "Disney X Coach Crewneck Sweater",
       "price": 595,
+      "discount": 10,
       "sex": "women",
       "type": "tops",
       "color": "Light Khaki Multi",
@@ -452,6 +460,7 @@
     {
       "name": "Heart Crewneck Sweater",
       "price": 550,
+      "discount": 10,
       "sex": "women",
       "type": "tops",
       "color": "Ivory",
@@ -462,6 +471,7 @@
     {
       "name": "Corduroy Loom Pants",
       "price": 197.5,
+      "discount": 5,
       "sex": "women",
       "type": "bottom",
       "color": "Brown",
@@ -472,6 +482,7 @@
     {
       "name": "Signature Jacquard Denim Skirt",
       "price": 395,
+      "discount": 5,
       "sex": "women",
       "type": "bottom",
       "color": "Black",
@@ -482,6 +493,7 @@
     {
       "name": "Hanna Loafer In Signature Jacquard",
       "price": 165,
+      "discount": 5,
       "sex": "women",
       "type": "shoe",
       "color": "Oak/Maple",
@@ -492,6 +504,7 @@
     {
       "name": "Hanna Loafer",
       "price": 165,
+      "discount": 5,
       "sex": "women",
       "type": "shoe",
       "color": "Chalk",
@@ -502,6 +515,7 @@
     {
       "name": "Whitley Mary Jane",
       "price": 185,
+      "discount": 5,
       "sex": "women",
       "type": "shoe",
       "color": "Black",
@@ -512,6 +526,7 @@
     {
       "name": "Vae Skimmer",
       "price": 150,
+      "discount": 5,
       "sex": "women",
       "type": "shoe",
       "color": "Stone",
@@ -522,6 +537,7 @@
     {
       "name": "Leather Racer Jacket",
       "price": 995,
+      "discount": 10,
       "sex": "men",
       "type": "jacket",
       "color": "Black",
@@ -531,6 +547,7 @@
     {
       "name": "Denim Mac Coat",
       "price": 1200,
+      "discount": 10,
       "sex": "men",
       "type": "jacket",
       "color": "Black Signature Denim",
@@ -541,6 +558,7 @@
     {
       "name": "Signature Rexy Hoodie",
       "price": 210,
+      "discount": 5,
       "sex": "men",
       "type": "tops",
       "color": "Charcoal Sig C",
@@ -551,6 +569,7 @@
     {
       "name": "Signature Rexy Hoodie",
       "price": 175,
+      "discount": 5,
       "sex": "men",
       "type": "tops",
       "color": "Khaki",
@@ -559,3 +578,4 @@
       "image3": "https://images.coach.com/is/image/Coach/cf608_kha_a46?$mobileProduct$"
     }
 ]
+    
